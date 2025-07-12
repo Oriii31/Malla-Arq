@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2311",
+    "nombre": "Taller de Arquitectura I",
+    "anio": 1,
+    "correlativas": []
+  },
+  {
+    "id": "2312",
+    "nombre": "Matemáticas I",
+    "anio": 1,
+    "correlativas": []
+  },
+  {
+    "id": "2313",
+    "nombre": "Dibujo Arquitectónico I",
+    "anio": 1,
+    "correlativas": []
+  },
+  {
+    "id": "2314",
+    "nombre": "Física",
+    "anio": 1,
+    "correlativas": []
+  },
+  {
+    "id": "2315",
+    "nombre": "Introducción a la Historia de la Arquitectura y el Urbanismo",
+    "anio": 1,
+    "correlativas": []
+  },
+  {
+    "id": "2316",
+    "nombre": "Introducción a la Tecnología",
+    "anio": 1,
+    "correlativas": ["2314"]
+  },
+  {
+    "id": "2317",
+    "nombre": "Morfología I",
+    "anio": 1,
+    "correlativas": []
+  }
+]

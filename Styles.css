@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+  background: #f9f9f9;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.materia {
+  padding: 10px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 2px solid #999;
+  transition: 0.2s ease;
+  font-weight: bold;
+  min-width: 180px;
+  text-align: center;
+}
+
+/* Estados */
+.estado-0 { background: #e0e0e0; color: #333; }       /* gris */
+.estado-1 { background: #a0d8f1; color: #000; }       /* celeste */
+.estado-2 { background: #c29eff; color: #000; }       /* violeta */
+.estado-3 { background: #a8e6cf; color: #000; }       /* verde menta */
+.estado-4 { background: #ff8b94; color: #000; }       /* rosa fuerte */
+
+/* Correlativa no cumplida (marco rojo) */
+.faltan-correlativas {
+  border: 2px dashed red;
+}
